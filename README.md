@@ -1,3 +1,6 @@
+code for automatic opening and closing of shed:
+
+
 #include<iostream>
 using namespace std;
 int main()
